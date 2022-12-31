@@ -1,14 +1,12 @@
 # Ts-t3-test App
 
----
+This project is using following features:
 
-# Table of Contents
-
-[T3 Framework](#t3-framework)
-[Supabase](#supabase)
-[NextAuth Discord](#nextauth-discord)
-[Prisma Migrate](#prisma-migrate)
-[Vercel Deploy](#vercel-deploy)
+- [T3 Framework](#t3-framework)
+- [Supabase](#supabase)
+- [NextAuth Discord](#nextauth-discord)
+- [Prisma Migrate](#prisma-migrate)
+- [Vercel Deploy](#vercel-deploy)
 
 ---
 
